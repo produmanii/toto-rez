@@ -1,3 +1,4 @@
 stor3.mp4 filter=lfs diff=lfs merge=lfs -text
 stor2.mp4 filter=lfs diff=lfs merge=lfs -text
 story.mp4 filter=lfs diff=lfs merge=lfs -text
+*.mp4 filter=lfs diff=lfs merge=lfs -text
